@@ -1,5 +1,5 @@
 # CoSIm
-Code and dataset for NAACL 2022 paper "CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination" Hyounghun Kim, Abhay Zala, Mohit Bansal.
+Code and dataset for NAACL 2022 paper ["CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination"](https://arxiv.org/abs/2207.03961) Hyounghun Kim, Abhay Zala, Mohit Bansal.
 
 
 ## Prerequisites
